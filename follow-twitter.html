@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post from people you follow</title>
+    <link rel="icon" href="/logo.png" type="image/png">
+</head>
+
+<body>
+    <div id="profiles"
+        style="font-family: SymbolUse, 'Sawarabi Gothic', 'Noto Sans TC', 'Noto Sans JP', 'Noto Sans SC', 'Hiragino Sans', 'Roboto', sans-serif;">
+    </div>
+
+    <!-- ✅ Correct placement of the users.js script -->
+    <script src="users.js"></script>
+
+    <!-- ✅ Main script starts here -->
+    <script>
+        const container = document.getElementById("profiles");
+
+        const stored = JSON.parse(localStorage.getItem("clickedUsersData") || "{}");
+        const clickedUsers = new Set(stored.users || []);
+        const lastTime = stored.timestamp || 0;
+        const now = Date.now();
+
+        if (now - lastTime > 12 * 60 * 60 * 1000) {
+            clickedUsers.clear();
+            localStorage.removeItem("clickedUsersData");
+        }
+
+        users.forEach(user => {
+            const wrapper = document.createElement("div");
+            wrapper.style.cssText = `
+                display: flex;
+                align-items: center;
+                margin-bottom: 20px;
+            `;
+
+            const profileLink = document.createElement("a");
+            profileLink.href = `https://x.com/${user.username.replace('@', '')}`;
+            profileLink.target = "_blank";
+            profileLink.style.cssText = `
+                text-decoration: none;
+                color: black;
+                display: flex;
+                align-items: center;
+            `;
+
+            const img = document.createElement("img");
+            img.src = user.image;
+            img.alt = user.name;
+            img.style.cssText = `
+                width: 80px;
+                height: 80px;
+                object-fit: cover;
+                border-radius: 50%;
+                margin-right: 15px;
+                transition: opacity 0.3s ease;
+            `;
+
+            const textDiv = document.createElement("div");
+            textDiv.style.cssText = "transition: opacity 0.3s ease;";
+            const nameDiv = document.createElement("div");
+            nameDiv.textContent = user.name;
+            nameDiv.style.cssText = "font-weight: bold; font-size: 1.2em;";
+            const usernameDiv = document.createElement("div");
+            usernameDiv.textContent = user.username;
+            usernameDiv.style.cssText = "font-size: 1em;";
+            textDiv.appendChild(nameDiv);
+            textDiv.appendChild(usernameDiv);
+
+            profileLink.appendChild(img);
+            profileLink.appendChild(textDiv);
+            wrapper.appendChild(profileLink);
+            container.appendChild(wrapper);
+
+            if (clickedUsers.has(user.username)) {
+                img.style.opacity = "0.4";
+                textDiv.style.opacity = "0.4";
+            }
+
+            profileLink.addEventListener("click", () => {
+                clickedUsers.add(user.username);
+                localStorage.setItem("clickedUsersData", JSON.stringify({
+                    users: [...clickedUsers],
+                    timestamp: Date.now()
+                }));
+                img.style.opacity = "0.4";
+                textDiv.style.opacity = "0.4";
+            });
+        });
+    </script>
+</body>
+
+</html>
