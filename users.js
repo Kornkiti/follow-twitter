@@ -170,11 +170,6 @@ const users = [{
     'image': 'https://pbs.twimg.com/profile_images/1718181534975549441/E67JJERQ_400x400.jpg'
 },
 {
-    'name': 'WHITEFOX',
-    'username': '@tyloppop',
-    'image': 'https://pbs.twimg.com/profile_images/1802373659123908608/7dDP9TAc_400x400.jpg'
-},
-{
     'name': 'Hush Hush Boys Video account',
     'username': '@hushhushstr88',
     'image': 'https://pbs.twimg.com/profile_images/1779471629766348800/gjii6z6V_400x400.jpg'
@@ -183,11 +178,6 @@ const users = [{
     'name': 'BAST',
     'username': '@2004_bast',
     'image': 'https://pbs.twimg.com/profile_images/1669376567854907393/d6UI18sW_400x400.jpg'
-},
-{
-    'name': 'ゆうき',
-    'username': '@yuki__riko8',
-    'image': 'https://pbs.twimg.com/profile_images/1866130612165513216/41o61OJe_400x400.jpg'
 },
 {
     'name': 'すけ',
