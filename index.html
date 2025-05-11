@@ -25,7 +25,7 @@
         const lastTime = stored.timestamp || 0;
         const now = Date.now();
 
-        if (now - lastTime > 12 * 60 * 60 * 1000) {
+        if (now - lastTime > 3 * 60 * 60 * 1000) {
             clickedUsers.clear();
             localStorage.removeItem("clickedUsersData");
         }
