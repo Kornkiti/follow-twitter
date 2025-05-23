@@ -107,12 +107,12 @@ const users = [{
 {
     'name': 'ONLY.P',
     'username': '@theonlypattx',
-    'image': 'https://pbs.twimg.com/profile_images/1873553254719827968/53Fz_nE0_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1923543928206245888/pbed4uMk_400x400.jpg'
 },
 {
     'name': 'frxng89',
     'username': '@frxng89',
-    'image': 'https://pbs.twimg.com/profile_images/1871135430877622273/4Tv1aHxx_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1923718779172773888/FfPzPM37_400x400.jpg'
 },
 {
     'name': 'kijiro',
@@ -175,11 +175,6 @@ const users = [{
     'image': 'https://pbs.twimg.com/profile_images/1779471629766348800/gjii6z6V_400x400.jpg'
 },
 {
-    'name': 'BAST',
-    'username': '@2004_bast',
-    'image': 'https://pbs.twimg.com/profile_images/1669376567854907393/d6UI18sW_400x400.jpg'
-},
-{
     'name': 'すけ',
     'username': '@HNL02e',
     'image': 'https://pbs.twimg.com/profile_images/1894331413190864896/r8dzJ9uY_400x400.jpg'
@@ -187,7 +182,7 @@ const users = [{
 {
     'name': 'winner',
     'username': '@winneraes',
-    'image': 'https://pbs.twimg.com/profile_images/1920135163365007360/qboTbG3P_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1924145363033706496/CvAHInQi_400x400.jpg'
 },
 {
     'name': 'Haiki',
