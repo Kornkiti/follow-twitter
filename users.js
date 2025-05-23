@@ -387,12 +387,12 @@ const users = [{
 {
     'name': '𝐌𝐢𝐧𝐧𝐞𝐫’𝐬🍠',
     'username': '@minner_rs',
-    'image': 'https://pbs.twimg.com/profile_images/1920860609098203136/9_TneKY5_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1922490454878388225/rSd8CncP_400x400.jpg'
 },
 {
     'name': 'ゆーくん',
     'username': '@yukun__video',
-    'image': 'https://pbs.twimg.com/profile_images/1902865029600514048/n_lsbo3u_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1922385350267199488/qGjufNJF_400x400.jpg'
 },
 {
     'name': '𝐁𝐨𝐲𝐬 𝐋𝐨𝐯𝐞 𝐕𝐢𝐝𝐞𝐨',
