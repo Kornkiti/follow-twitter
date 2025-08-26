@@ -157,11 +157,6 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1825344021629468672/yD44-l4X_400x400.jpg'
 },
 {
-    'name': 'Shin',
-    'username': '@shingojuichi',
-    'image': 'https://pbs.twimg.com/profile_images/1845498254613680128/Wd4NBquY_400x400.jpg'
-},
-{
     'name': 'ONLY.P',
     'username': '@theonlypattx',
     'image': 'https://pbs.twimg.com/profile_images/1923543928206245888/pbed4uMk_400x400.jpg'
