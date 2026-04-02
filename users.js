@@ -1,8 +1,8 @@
 // notFollow
 const notFollow = [{
-    'name': 'MODEL GAYDAR',
-    'username': '@model_gaydar',
-    'image': 'https://pbs.twimg.com/profile_images/1740772476609765376/5VTRSQ_d_400x400.jpg'
+    'name': 'GAYERDAR 蓋兒達',
+    'username': '@gayerdar_2025',
+    'image': 'https://pbs.twimg.com/profile_images/1976159160871145472/ZRKupf6y_400x400.jpg'
 },
 {
     'name': '彩虹獨角獸',
@@ -14,12 +14,12 @@ const notFollow = [{
 const follow = [{
     'name': 'ゆー',
     'username': '@bro_yu_new',
-    'image': 'https://pbs.twimg.com/profile_images/1951105654200131584/iLXL7Fwd_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2009512075920592903/UVIs1t97_400x400.jpg'
 },
 {
     'name': 'ตว. tawan',
     'username': '@007tawanxd',
-    'image': 'https://pbs.twimg.com/profile_images/1931946359827070976/s8I14SEH_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2027611030541766658/rBwLrQDE_400x400.jpg'
 },
 {
     'name': 'Haru×Jack',
@@ -34,12 +34,12 @@ const follow = [{
 {
     'name': 'はる',
     'username': '@harurunn07',
-    'image': 'https://pbs.twimg.com/profile_images/1948946655363137536/z9X_--Os_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1962112660276912128/YBNi4Arm_400x400.jpg'
 },
 {
     'name': '前川勇気🇯🇵YUKI🇯🇵',
     'username': '@topswimmer_2025',
-    'image': 'https://pbs.twimg.com/profile_images/1891693938291113984/GC1Quw6L_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1965424509831536640/ccDGpBTM_400x400.jpg'
 },
 {
     'name': 'Xavier M. (REAL)',
@@ -47,14 +47,9 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1864966263073837060/Sg4kOQUm_400x400.jpg'
 },
 {
-    'name': 'Super树',
-    'username': '@ashu080000',
-    'image': 'https://pbs.twimg.com/profile_images/1863203401451872256/P5JgkMTM_400x400.jpg'
-},
-{
-    'name': 'えむ 品川',
-    'username': '@dgsg_m',
-    'image': 'https://pbs.twimg.com/profile_images/1857665024900345856/1-pHdP8A_400x400.jpg'
+    'name': 'Khoái 13',
+    'username': '@khoai_13',
+    'image': 'https://pbs.twimg.com/profile_images/2006431568299175936/qiEOqpFY_400x400.jpg'
 },
 {
     'name': 'CCGXMR',
@@ -69,12 +64,12 @@ const follow = [{
 {
     'name': 'นมถั่วเหลืองสายลับ 🍼✨🕶️ Ver.2 (99.7k)',
     'username': '@vmilk18',
-    'image': 'https://pbs.twimg.com/profile_images/1926620254219763712/rO3TdT0V_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2038493773110632448/vdqc0HYq_400x400.jpg'
 },
 {
     'name': '王皓',
     'username': '@HuRui01',
-    'image': 'https://pbs.twimg.com/profile_images/1828096380583473152/27bZ59K6_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1978135394492309508/ZwgbosiB_400x400.jpg'
 },
 {
     'name': 'U video',
@@ -86,11 +81,7 @@ const follow = [{
     'username': '@milk17dog',
     'image': 'https://pbs.twimg.com/profile_images/1818149744662958080/-p8h_Wy6_400x400.jpg'
 },
-{
-    'name': 'Maw Meow',
-    'username': '@MMeow_w_',
-    'image': 'https://pbs.twimg.com/profile_images/1842852517694279680/4WSOlFfw_400x400.jpg'
-},
+
 {
     'name': 'TheMinchanixx',
     'username': '@minchanixx',
@@ -99,7 +90,7 @@ const follow = [{
 {
     'name': 'ぴ',
     'username': '@pinanaka',
-    'image': 'https://pbs.twimg.com/profile_images/1955933754998054916/S8UGqc9a_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2007806028562518016/usiCVpJs_400x400.jpg'
 },
 {
     'name': 'STAM☄️ |onlyfans 12$',
@@ -114,7 +105,7 @@ const follow = [{
 {
     'name': '羊老师',
     'username': '@yanglaoshiX_X',
-    'image': 'https://pbs.twimg.com/profile_images/1869157503449411584/pCRdm7Z-_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1975633578399834115/XSrz5zvk_400x400.jpg'
 },
 {
     'name': 'yuto',
@@ -124,7 +115,7 @@ const follow = [{
 {
     'name': '𝖀𝕶𝕸𝕹',
     'username': '@U_K_M_N',
-    'image': 'https://pbs.twimg.com/profile_images/1959773567098462208/lo1Ge8gB_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1983250866351284224/e94mz_Jy_400x400.jpg'
 },
 {
     'name': 'กอล์ฟ ยิ้มเก่ง channel',
@@ -132,14 +123,14 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1698748422868934656/gDmfo_qL_400x400.jpg'
 },
 {
-    'name': 'Josh',
-    'username': '@josharejod',
-    'image': 'https://pbs.twimg.com/profile_images/1959591622225936384/I8k-GseE_400x400.jpg'
+    'name': 'ชิบะน้อย🦊',
+    'username': '@little_shiba56',
+    'image': 'https://pbs.twimg.com/profile_images/1983162585974484994/99eXmXkW_400x400.jpg'
 },
 {
     'name': 'meaty sushi',
     'username': '@Innocentjap6',
-    'image': 'https://pbs.twimg.com/profile_images/1957228503868534784/bmRoYrSZ_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2030088833870827520/osX9S1Ny_400x400.jpg'
 },
 {
     'name': 'Leolokisama',
@@ -159,12 +150,12 @@ const follow = [{
 {
     'name': 'ONLY.P',
     'username': '@theonlypattx',
-    'image': 'https://pbs.twimg.com/profile_images/1923543928206245888/pbed4uMk_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2018291410395631616/9TlCHaLF_400x400.jpg'
 },
 {
-    'name': 'FRXNG89',
+    'name': '𝐅ℝ𝕩𝐍𝙜~✞',
     'username': '@frxng89',
-    'image': 'https://pbs.twimg.com/profile_images/1951696524418904064/FxIg8sr4_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2016762933066575872/GubL-HBa_400x400.jpg'
 },
 {
     'name': 'kijiro',
@@ -177,24 +168,19 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1916506132933472256/w1Mf-rTc_400x400.jpg'
 },
 {
-    'name': 'TD.3 ✨(อดีต 90k )',
+    'name': 'TD.3 ✨',
     'username': '@kitti84512055',
-    'image': 'https://pbs.twimg.com/profile_images/1843784863213842432/1kgxIcvy_400x400.jpg'
-},
-{
-    'name': 'DRAMA_X',
-    'username': '@SAKAMOT02547',
-    'image': 'https://pbs.twimg.com/profile_images/1948909248752345088/qfECuyHU_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2030836005427945472/nkDXdejt_400x400.jpg'
 },
 {
     'name': 's n',
     'username': '@seong_namX',
-    'image': 'https://pbs.twimg.com/profile_images/1746879914828271616/uRhh-XUh_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2038683212973809664/CfMJCB0V_400x400.jpg'
 },
 {
-    'name': 'CORGITHAI',
-    'username': '@corgithai',
-    'image': 'https://pbs.twimg.com/profile_images/1933372415134040064/7RqxLhYk_400x400.jpg'
+    'name': 'CORGIX',
+    'username': '@corgix___',
+    'image': 'https://pbs.twimg.com/profile_images/2002357356936769537/JN5ctdWY_400x400.jpg'
 },
 {
     'name': '白色的花 Empty_min',
@@ -214,7 +200,7 @@ const follow = [{
 {
     'name': 'Jay Wu',
     'username': '@sinchonut',
-    'image': 'https://pbs.twimg.com/profile_images/1956857133527678976/qN59TRjQ_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1963660462521978880/AMMBXs03_400x400.jpg'
 },
 {
     'name': 'rubyoufin',
@@ -222,29 +208,19 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1540017918636728320/vzBdLiR5_400x400.jpg'
 },
 {
-    'name': 'ricky',
-    'username': '@petersu32726256',
-    'image': 'https://pbs.twimg.com/profile_images/1718181534975549441/E67JJERQ_400x400.jpg'
-},
-{
-    'name': 'Hush Hush Boys Video',
-    'username': '@hushhushstr88',
-    'image': 'https://pbs.twimg.com/profile_images/1779471629766348800/gjii6z6V_400x400.jpg'
-},
-{
     'name': '小鐵Iron🧢',
     'username': '@IronT0401',
     'image': 'https://pbs.twimg.com/profile_images/1941083687803633664/clU1PjC5_400x400.jpg'
 },
 {
-    'name': 'すけ',
+    'name': 'いー',
     'username': '@HNL02e',
-    'image': 'https://pbs.twimg.com/profile_images/1894331413190864896/r8dzJ9uY_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1999152732830380032/s1odRIZU_400x400.jpg'
 },
 {
     'name': 'winner',
-    'username': '@winneraes',
-    'image': 'https://pbs.twimg.com/profile_images/1927378597813075968/dlv_w9QD_400x400.jpg'
+    'username': '@winnerxxg',
+    'image': 'https://pbs.twimg.com/profile_images/2037036485166436352/mzBZ2314_400x400.jpg'
 },
 {
     'name': 'Haiki',
@@ -279,7 +255,7 @@ const follow = [{
 {
     'name': 'โกโกะนักฆ่าอสุจิ X 101',
     'username': '@ggspermkillerx',
-    'image': 'https://pbs.twimg.com/profile_images/1909985041398333440/16-Pb2Qq_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2031729033218777088/Sb4feYI7_400x400.jpg'
 },
 {
     'name': 'Dilf',
@@ -297,7 +273,7 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1495737522357297152/3j6MxSxH_400x400.jpg'
 },
 {
-    'name': '🔥$4 PROMO🤤TOP 1%🔥18 Blonde Bi Hung Twink 💦🍆💦',
+    'name': 'Fynn Twink',
     'username': '@FynnPPVPromo',
     'image': 'https://pbs.twimg.com/profile_images/1558756432173998081/wIa7KAx1_400x400.jpg'
 },
@@ -312,6 +288,12 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1902221260840448000/6dZNmhO2_400x400.jpg'
 },
 {
+    'name': 'Ezra Lucian',
+    'username': '@EzraLucian_Jin',
+    'image': 'https://pbs.twimg.com/profile_images/2021476228486795265/jR_LEaHH_400x400.jpg'
+},
+
+{
     'name': '◤ENZO◥',
     'username': '@Enzo_Enzio',
     'image': 'https://pbs.twimg.com/profile_images/1542982918066151426/pRJOHAyI_400x400.jpg'
@@ -319,12 +301,12 @@ const follow = [{
 {
     'name': "Summer '98",
     'username': '@IamjamesTrz',
-    'image': 'https://pbs.twimg.com/profile_images/1867560332123881472/0UpP-S2K_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2019098008709963776/2WTgkYsU_400x400.jpg'
 },
 {
-    'name': 'jei',
+    'name': 'vin',
     'username': '@soiboi_xl',
-    'image': 'https://pbs.twimg.com/profile_images/1821551695018778624/MKDFl6NZ_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1986945172471468032/-riKpmEF_400x400.jpg'
 },
 {
     'name': '魔巨根 （追蹤訂閱開啟🔔）',
@@ -342,9 +324,15 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1602529624004513792/wbRHEc4s_400x400.jpg'
 },
 {
+    'name': 'ชุนจังคนเยว 🔥',
+    'username': '@ccnxphat',
+    'image': 'https://pbs.twimg.com/profile_images/2034589228886274048/gGLpYvxj_400x400.jpg'
+},
+
+{
     'name': 'twinkboysheaven (Top 0%) 😇',
     'username': '@twinkboysheaven',
-    'image': 'https://pbs.twimg.com/profile_images/1376952678689951748/3BTgkyHb_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1984821018871902209/IGnlji-2_400x400.jpg'
 },
 {
     'name': 'teetw',
@@ -402,19 +390,9 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1514958619153903617/oVBxGRMf_400x400.jpg'
 },
 {
-    'name': 'Ryan Brandz ⭐️',
-    'username': '@RyanBrandz',
-    'image': 'https://pbs.twimg.com/profile_images/1831063024561709056/-8HtVNs-_400x400.jpg'
-},
-{
-    'name': 'ซน.',
-    'username': '@cinon_x',
-    'image': 'https://pbs.twimg.com/profile_images/1948577896077164548/H7J6q3Fp_400x400.jpg'
-},
-{
-    'name': 'M',
-    'username': '@maakun11477',
-    'image': 'https://pbs.twimg.com/profile_images/1923714196824334336/bDsfGAo8_400x400.jpg'
+    'name': 'ซ.น.',
+    'username': '@xenon_r8',
+    'image': 'https://pbs.twimg.com/profile_images/2027793220269461505/2XxUvJrS_400x400.jpg'
 },
 {
     'name': '~chubby cheek ;)',
@@ -434,8 +412,14 @@ const follow = [{
 {
     'name': 'AV男優 ニック🐳',
     'username': '@av_nick29xxx',
-    'image': 'https://pbs.twimg.com/profile_images/1820411642943000576/Ql3VkQ52_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2002374817081913344/MXN6vahH_400x400.jpg'
 },
+{
+    'name': 'thanatos_',
+    'username': '@troyikesx',
+    'image': 'https://pbs.twimg.com/profile_images/2029823927527317504/Vcb0yAii_400x400.jpg'
+},
+
 {
     'name': 'Koya(一隻鴿子）',
     'username': '@opqo81103714',
@@ -444,7 +428,7 @@ const follow = [{
 {
     'name': 'Yuki 公狗1',
     'username': '@yuki26027579',
-    'image': 'https://pbs.twimg.com/profile_images/1554319885143904257/Ke1lPLtC_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/1965033083473952768/FpNcYdqC_400x400.jpg'
 },
 {
     'name': 'Zemo',
@@ -452,19 +436,9 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1553107633087062016/o8lN5rsn_400x400.jpg'
 },
 {
-    'name': 'dox_bori',
-    'username': '@gogodox_ps',
-    'image': 'https://pbs.twimg.com/profile_images/1931569339179905024/O0C_3fZQ_400x400.jpg'
-},
-{
     'name': '𝐌𝐢𝐧𝐧𝐞𝐫’𝐬🍠',
-    'username': '@minner_rs',
-    'image': 'https://pbs.twimg.com/profile_images/1943588583077728256/F12LLHNl_400x400.jpg'
-},
-{
-    'name': 'ゆーくん',
-    'username': '@yukun__video',
-    'image': 'https://pbs.twimg.com/profile_images/1922385350267199488/qGjufNJF_400x400.jpg'
+    'username': '@mii_nner',
+    'image': 'https://pbs.twimg.com/profile_images/2005668965432111105/vOujH85Z_400x400.jpg'
 },
 {
     'name': '𝐁𝐨𝐲𝐬 𝐋𝐨𝐯𝐞 𝐕𝐢𝐝𝐞𝐨',
@@ -484,5 +458,5 @@ const follow = [{
 {
     'name': 'ゆー(ぶろ)',
     'username': '@SpaceDiamonds',
-    'image': 'https://pbs.twimg.com/profile_images/1925917076142653440/yILPaM2L_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2024472953203937283/jcVKuFno_400x400.jpg'
 }];
