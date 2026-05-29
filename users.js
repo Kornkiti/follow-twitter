@@ -5,13 +5,18 @@ const notFollow = [{
     'image': 'https://pbs.twimg.com/profile_images/1976159160871145472/ZRKupf6y_400x400.jpg'
 },
 {
-    'name': '彩虹獨角獸',
+    'name': 'aken',
     'username': '@aone0912ken_men',
-    'image': 'https://pbs.twimg.com/profile_images/1177994259833614336/A8CKd1Cm_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2049512815099277312/UXRrAmP6_400x400.jpg'
 }];
 
 // follow
 const follow = [{
+    'name': '奶狗獵人Eason',
+    'username': '@milk177dog',
+    'image': 'https://pbs.twimg.com/profile_images/2030198372125298689/PR6ilUB3_400x400.jpg'
+},
+{
     'name': 'ゆー',
     'username': '@bro_yu_new',
     'image': 'https://pbs.twimg.com/profile_images/2009512075920592903/UVIs1t97_400x400.jpg'
@@ -30,6 +35,11 @@ const follow = [{
     'name': 'Yoshi',
     'username': '@sushiidumps',
     'image': 'https://pbs.twimg.com/profile_images/1903344706542768129/uhHGpXHS_400x400.jpg'
+},
+{
+    'name': 'Ezra Lucian',
+    'username': '@EzraLucian_Jin2',
+    'image': 'https://pbs.twimg.com/profile_images/2031815681768112130/LFBLvkS2_400x400.jpg'
 },
 {
     'name': 'はる',
@@ -64,7 +74,7 @@ const follow = [{
 {
     'name': 'นมถั่วเหลืองสายลับ 🍼✨🕶️ Ver.2 (99.7k)',
     'username': '@vmilk18',
-    'image': 'https://pbs.twimg.com/profile_images/2038493773110632448/vdqc0HYq_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2048766028503785472/ZdXie52S_400x400.jpg'
 },
 {
     'name': '王皓',
@@ -77,12 +87,6 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1880779177630265344/8h9SSIQY_400x400.jpg'
 },
 {
-    'name': '奶狗獵人Eason',
-    'username': '@milk177dog',
-    'image': 'https://pbs.twimg.com/profile_images/2030198372125298689/PR6ilUB3_400x400.jpg'
-},
-
-{
     'name': 'TheMinchanixx',
     'username': '@minchanixx',
     'image': 'https://pbs.twimg.com/profile_images/1803669573499236352/kWpp6mQ__400x400.jpg'
@@ -90,7 +94,7 @@ const follow = [{
 {
     'name': 'ぴ',
     'username': '@pinanaka',
-    'image': 'https://pbs.twimg.com/profile_images/2045440617938116608/hqgmMP6s_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2055433968003248128/OK52rjJ0_400x400.jpg'
 },
 {
     'name': 'STAM☄️ |onlyfans 12$',
@@ -178,9 +182,9 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/2039958218013900800/9ixMzi6t_400x400.jpg'
 },
 {
-    'name': 'CORGIX',
-    'username': '@corgix___',
-    'image': 'https://pbs.twimg.com/profile_images/2002357356936769537/JN5ctdWY_400x400.jpg'
+    'name': 'CORGICMI',
+    'username': '@corgicmi',
+    'image': 'https://pbs.twimg.com/profile_images/2052722010258817025/38WRY2SF_400x400.jpg'
 },
 {
     'name': '白色的花 Empty_min',
@@ -205,7 +209,7 @@ const follow = [{
 {
     'name': 'rubyoufin',
     'username': '@rubyoufin',
-    'image': 'https://pbs.twimg.com/profile_images/1540017918636728320/vzBdLiR5_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2058455177104097280/3g1gd8gQ_400x400.jpg'
 },
 {
     'name': '小鐵Iron🧢',
@@ -311,7 +315,7 @@ const follow = [{
 {
     'name': 'ชุนจังคนเยว 🔥',
     'username': '@ccnxphat',
-    'image': 'https://pbs.twimg.com/profile_images/2043632659134566400/gFVrtKPk_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2056333854160637953/DlZveR_J_400x400.jpg'
 },
 
 {
@@ -377,7 +381,7 @@ const follow = [{
 {
     'name': 'ซ.น.',
     'username': '@xenon_r8',
-    'image': 'https://pbs.twimg.com/profile_images/2027793220269461505/2XxUvJrS_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2060072244957921280/_fXLqphX_400x400.jpg'
 },
 {
     'name': '~chubby cheek ;)',
@@ -423,7 +427,7 @@ const follow = [{
 {
     'name': '𝐌𝐢𝐧𝐧𝐞𝐫’𝐬🍠',
     'username': '@mii_nner',
-    'image': 'https://pbs.twimg.com/profile_images/2040737011229941760/1S0zVQrB_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2053543582917890048/kcoxuAZ3_400x400.jpg'
 },
 {
     'name': '𝐁𝐨𝐲𝐬 𝐋𝐨𝐯𝐞 𝐕𝐢𝐝𝐞𝐨',
@@ -441,7 +445,7 @@ const follow = [{
     'image': 'https://pbs.twimg.com/profile_images/1509482912621948930/56QvoTRh_400x400.jpg'
 },
 {
-    'name': 'ゆー(ぶろ)',
+    'name': 'Yu_bro🥦',
     'username': '@SpaceDiamonds',
     'image': 'https://pbs.twimg.com/profile_images/2024472953203937283/jcVKuFno_400x400.jpg'
 }];
