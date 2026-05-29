@@ -119,7 +119,7 @@ const follow = [{
 {
     'name': '𝖀𝕶𝕸𝕹',
     'username': '@U_K_M_N',
-    'image': 'https://pbs.twimg.com/profile_images/1983250866351284224/e94mz_Jy_400x400.jpg'
+    'image': 'https://pbs.twimg.com/profile_images/2058168897036283904/Fsq3dP3V_400x400.jpg'
 },
 {
     'name': 'กอล์ฟ ยิ้มเก่ง channel',
