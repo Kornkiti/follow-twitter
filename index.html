@@ -38,7 +38,7 @@
         `;
 
         const profileLink = document.createElement("a");
-        profileLink.href = `https://x.com/${user.username.replace('@', '')}`;
+        profileLink.href = `https://x.com/${user.username.replaceAll('@', '')}`;
         profileLink.target = "_blank";
         profileLink.style.cssText = `
           text-decoration: none;
