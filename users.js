@@ -16,7 +16,7 @@ const notFollow = [
 const follow = [
     {
         'name': 'CGAME',
-        'username': '@@Seegameq03d',
+        'username': '@Seegameq03d',
         'image': 'https://pbs.twimg.com/profile_images/2064657197372674048/BpTEZc0r_400x400.jpg'
     },
     {
